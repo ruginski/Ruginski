@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! Happy to see you here. 🙂
 
-[![Linkedin: Rafael Ruginski](https://img.shields.io/badge/-Rafael%20Ruginski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelruginski/)](https://www.linkedin.com/in/rafaelruginski/)
+[![Linkedin: Rafael Ruginski](https://img.shields.io/badge/-Rafael%20Ruginski-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelruginski/)](https://www.linkedin.com/in/rafaelruginski/)
 
 🌱 I’m currently learning Data Science and its various branches (Python, R, Machine Learning and BI).
 
