@@ -4,8 +4,6 @@ Welcome to my GitHub! Happy to see you here. 🙂
 
 [![Linkedin: Rafael Ruginski](https://img.shields.io/badge/-Rafael%20Ruginski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelruginski/)](https://www.linkedin.com/in/rafaelruginski/)
 
-https://img.shields.io/badge/-Rafael%20Ruginski-blue
-
 <!--
 **ruginski/Ruginski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
