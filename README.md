@@ -4,7 +4,9 @@ Welcome to my GitHub! Happy to see you here. 🙂
 
 [![Linkedin: Rafael Ruginski](https://img.shields.io/badge/-Rafael%20Ruginski-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelruginski/)](https://www.linkedin.com/in/rafaelruginski/)
 
-🌱 I’m currently learning Data Science and its various branches (Python, R, Machine Learning and BI).
+🌱 I’m currently learning Data Science and its various branches (Python, R, Machine Learning, ETL and BI).
+
+🌱 And also, having some fun while learing Docker and containers.
 
 <!--
 **ruginski/Ruginski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
